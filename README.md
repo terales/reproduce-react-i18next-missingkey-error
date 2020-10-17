@@ -14,9 +14,9 @@ All resource files should store strings under `translation` key:
 ```json
 {
 +  "translation": {
-    "selectAction": "Select Action",
-    "workflow": "Workflow",
-    "details": "Details"
+      "selectAction": "Select Action",
+      "workflow": "Workflow",
+      "details": "Details"
 +  }
 }
 ```
