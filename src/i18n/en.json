@@ -1,5 +1,7 @@
 {
-  "selectAction": "Select Action",
-  "workflow": "Workflow",
-  "details": "Details"
+  "translation": {
+    "selectAction": "Select Action",
+    "workflow": "Workflow",
+    "details": "Details"
+  }
 }

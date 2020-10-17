@@ -1,5 +1,7 @@
 {
-  "selectAction": "Seleccione la acción",
-  "workflow": "Flujo de trabajo",
-  "details": "Detalles"
+  "translation": {
+    "selectAction": "Seleccione la acción",
+    "workflow": "Flujo de trabajo",
+    "details": "Detalles"
+  }
 }
