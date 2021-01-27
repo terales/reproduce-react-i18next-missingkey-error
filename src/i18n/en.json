@@ -1,7 +1,6 @@
 {
-  "translation": {
-    "selectAction": "Select Action",
-    "workflow": "Workflow",
-    "details": "Details"
-  }
+  "selectAction": "Select Action",
+  "workflow": "Workflow",
+  "details": "Details",
+  "subtitle": "Subtitle translation"
 }
